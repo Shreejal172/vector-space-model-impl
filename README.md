@@ -407,7 +407,6 @@ This project is provided for educational purposes. Free to use, modify, and dist
 
 **Shreejal KC**  
 Presidential Graduate School  
-Email: [Your Email]  
 GitHub: [@Shreejal172](https://github.com/Shreejal172)
 
 ## Acknowledgments
